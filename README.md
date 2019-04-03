@@ -16,3 +16,6 @@
 ### 实现效果
 ![image](https://github.com/3017218159/WpfApp1/blob/master/7.png)  
 成功实现作业要求。
+## 更改内容
+上面输出结果与输入出现单位不一致的问题，现将单位统一改为￥，更改后如下：  
+![image](https://github.com/3017218159/WpfApp1/blob/master/8.png)  
